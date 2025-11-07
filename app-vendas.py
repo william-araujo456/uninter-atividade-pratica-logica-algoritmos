@@ -1,4 +1,4 @@
-print('Bem Vindo a Loja do William')
+print('Bem Vindo a Loja do William Mattson')
 valor = float(input('Entre com o valor do produto: '))
 quantidade = int(input('Entre com o valor da quantidade: '))
 subtotal = valor + quantidade

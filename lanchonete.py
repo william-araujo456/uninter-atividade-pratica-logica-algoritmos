@@ -1,5 +1,5 @@
 acumulador = 0
-print('BEM VINDO A LANCHONETE DO WILLIAM')
+print('BEM VINDO A LANCHONETE DO WILLIAM MATTSON')
 
 print('===============CARDÁPIO===============')
 print('[CÓDIGO]    [DESCRIÇÃO]            [VALOR]')
